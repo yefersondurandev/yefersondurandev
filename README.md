@@ -1,5 +1,5 @@
 # 💫 About Me:
-Analista y desarrollador de software Full Stack Java, comprometido con la calidad en cada etapa del desarrollo. Cuento con experiencia en la colaboración y finalización de proyectos tanto en equipo como de manera autónoma, aplicando buenas prácticas y asegurando soluciones eficientes. Me destaco por mi capacidad de adaptarme rápidamente a nuevos entornos, herramientas y tecnologías. Manejo tecnologías frontend como HTML, CSS, JavaScript, así como en backend, especialmente en Java y Spring Boot. Además, también he manejado bases de datos relacionales como MySQL y en la gestión de versiones con Git.
+Analista y desarrollador de software, Desarrollador de Java y indie dev., comprometido con la calidad en cada etapa del desarrollo. Cuento con experiencia en la colaboración y finalización de proyectos tanto en equipo como de manera autónoma, aplicando buenas prácticas y asegurando soluciones eficientes. Me destaco por mi capacidad de adaptarme rápidamente a nuevos entornos, herramientas y tecnologías. Manejo tecnologías frontend como HTML, CSS, JavaScript, así como en backend, especialmente en Java y Spring Boot. Además, también he manejado bases de datos relacionales como MySQL y en la gestión de versiones con Git.
 
 
 ## 🌐 Socials:
