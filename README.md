@@ -1,5 +1,5 @@
 # 💫 About Me:
-Analista y desarrollador de software, Desarrollador de Java y indie dev., comprometido con la calidad en cada etapa del desarrollo. Cuento con experiencia en la colaboración y finalización de proyectos tanto en equipo como de manera autónoma, aplicando buenas prácticas y asegurando soluciones eficientes. Me destaco por mi capacidad de adaptarme rápidamente a nuevos entornos, herramientas y tecnologías. Manejo tecnologías frontend como HTML, CSS, JavaScript, así como en backend, especialmente en Java y Spring Boot. Además, también he manejado bases de datos relacionales como MySQL y en la gestión de versiones con Git.
+Analista y desarrollador de software con enfoque en backend Java y Kotlin. Experiencia en proyectos colaborativos e individuales, tengo buen desempeño en equipo y poder adaptarme a nuevos entornos. Manejo Java, Spring Boot, bases de datos relacionales como MySQL, y control de versiones con Git. Adaptable a nuevas herramientas y tecnologías para nunca parar de aprender.
 
 
 ## 🌐 Socials:
